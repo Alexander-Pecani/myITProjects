@@ -16,3 +16,5 @@ if n==0:
 else:
     a = s/n
 print (s,a,m,n)
+
+# "Guess I learned how to use Git Commands Today!"
